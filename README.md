@@ -55,7 +55,7 @@ Social-Networks-Tutorials/
 ├── Week11_SmallWorld.pptx
 ├── Week12_InfluenceCore.pptx
 ├── Week13_Revision.pptx
-└── Social-Networks-Resources/
+└── Social-Networks-Codes/
 
 
 ---
