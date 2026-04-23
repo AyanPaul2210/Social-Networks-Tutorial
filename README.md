@@ -28,42 +28,42 @@ Influence maximization and core nodes
 A final module summarizing key concepts, models, and analytical insights from all weeks.
 📊 Analytical Examples & Visualizations
 Concept-driven examples to build intuition for network behavior, influence, and dynamics.
-📂 Repository Structure
 
-📁 Social-Networks-Tutorials/
-├── Week1_NetworkBasics.pptx
-├── Week2_Datasets.pptx
-├── Week3_WeakTies.pptx
-├── Week4_Homophily.pptx
-├── Week5_StructuralBalance.pptx
-├── Week6_WebGraph_PageRank.pptx
-├── Week7_Diffusion.pptx
-├── Week8_HubsAuthorities.pptx
-├── Week9_PowerLaw.pptx
-├── Week10_Epidemics.pptx
-├── Week11_SmallWorld.pptx
-├── Week12_InfluenceCore.pptx
-├── Week13_Revision.pptx
-└── 📁 Social-Networks-Resources/
+📂 Repository Structure
+  📁 Social-Networks-Tutorials/
+    ├── Week1_NetworkBasics.pptx
+    ├── Week2_Datasets.pptx
+    ├── Week3_WeakTies.pptx
+    ├── Week4_Homophily.pptx
+    ├── Week5_StructuralBalance.pptx
+    ├── Week6_WebGraph_PageRank.pptx
+    ├── Week7_Diffusion.pptx
+    ├── Week8_HubsAuthorities.pptx
+    ├── Week9_PowerLaw.pptx
+    ├── Week10_Epidemics.pptx
+    ├── Week11_SmallWorld.pptx
+    ├── Week12_InfluenceCore.pptx
+    ├── Week13_Revision.pptx
+    └── 📁 Social-Networks-Codes/
+
 
 ✅ Key Features
-Based on an official NPTEL Social Networks course structure
-Designed for students, researchers, and self-learners
-Strong focus on conceptual clarity and intuition
-Covers both theoretical models and real-world applications
-Includes well-structured visual explanations and examples
+    Based on an official NPTEL Social Networks course structure
+    Designed for students, researchers, and self-learners
+    Strong focus on conceptual clarity and intuition
+    Covers both theoretical models and real-world applications
+    Includes well-structured visual explanations and examples
+
 🚀 Getting Started
-
-Clone the repository:
-
-git clone https://github.com/yourusername/Social-Networks-Tutorials.git
-cd Social-Networks-Tutorials
-Open the PPT files week-wise to follow the structured learning path.
+    Clone the repository:
+        git clone https://github.com/yourusername/Social-Networks-Tutorials.git
+        cd Social-Networks-Tutorials
+    Open the PPT files week-wise to follow the structured learning path.
+    
 🧾 Study Material and References
-
-All supporting notes, slides, and additional resources are available on my official website:
-🔗 Study Material – Ayan Paul
-https://sites.google.com/view/ayans-agribot/teaching/study-material?authuser=0
+    All supporting notes, slides, and additional resources are available on my official website:
+    🔗 Study Material – Ayan Paul
+    https://sites.google.com/view/ayans-agribot/teaching/study-material?authuser=0
 
 📝 License
 
